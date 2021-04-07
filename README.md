@@ -1,0 +1,12 @@
+# 👋 Hi, I’m awol
+- 👀 I’m interested in 
+    - linux
+    - networking
+    - discord bots
+- 🌱 I’m currently learning 
+    - salt-stack
+    - python
+    - networking
+- 📫 How to reach me:
+    - discord: AWOL#2304
+    - email: awollinux@gmail.com
