@@ -1,4 +1,4 @@
-# 👋 Hi, I’m AWOL
+# 👋 Hi, I’m Avremy Wolosh
 - 👀 I’m interested in 
     - linux
     - Networking
